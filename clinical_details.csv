@@ -1,0 +1,101 @@
+Patient_ID,Cancer_Stage,Histological_Type,Tumor_Size_cm,Grade_of_Tumor
+1,Stage III,Lymphoma,8.55040151862427,High
+2,Stage III,Lymphoma,8.743641564805078,Low
+3,Stage III,Squamous Cell Carcinoma,3.2522622446427762,High
+4,Stage IV,Lymphoma,1.3495126098648087,Intermediate
+5,Stage IV,Squamous Cell Carcinoma,3.7293896320590054,Low
+6,Stage III,Squamous Cell Carcinoma,5.833741844769899,High
+7,Stage IV,Squamous Cell Carcinoma,3.939861176164368,High
+8,Stage I,Squamous Cell Carcinoma,8.450821034088298,Intermediate
+9,Stage I,Squamous Cell Carcinoma,3.443886242377677,Low
+10,Stage IV,Adenocarcinoma,9.687266473516928,Low
+11,Stage IV,Lymphoma,5.115386454523557,High
+12,Stage III,Squamous Cell Carcinoma,8.578207675107834,Low
+13,Stage II,Lymphoma,2.749420305953857,High
+14,Stage IV,Lymphoma,4.702185145510107,Low
+15,Stage I,Squamous Cell Carcinoma,7.295609896904745,High
+16,Stage III,Adenocarcinoma,2.2451778317602122,Low
+17,Stage IV,Squamous Cell Carcinoma,2.1947088001867283,Intermediate
+18,Stage I,Adenocarcinoma,9.72583180402743,Low
+19,Stage I,Lymphoma,7.431355937619569,Low
+20,Stage II,Adenocarcinoma,1.369607650910882,Intermediate
+21,Stage III,Adenocarcinoma,4.589388113003151,Low
+22,Stage III,Adenocarcinoma,4.901686638226678,Intermediate
+23,Stage II,Lymphoma,7.696383786992039,Low
+24,Stage II,Lymphoma,3.257744746119951,High
+25,Stage III,Adenocarcinoma,2.6590030689823303,High
+26,Stage III,Adenocarcinoma,1.727856699554779,Low
+27,Stage IV,Squamous Cell Carcinoma,4.85483027446097,Low
+28,Stage IV,Adenocarcinoma,7.1964991068882975,Low
+29,Stage II,Squamous Cell Carcinoma,1.5237423595759925,High
+30,Stage IV,Adenocarcinoma,9.236923548638323,Low
+31,Stage I,Squamous Cell Carcinoma,4.98117006757994,High
+32,Stage IV,Lymphoma,3.158086232416629,Intermediate
+33,Stage IV,Adenocarcinoma,1.8448596107316257,High
+34,Stage I,Adenocarcinoma,2.645793973965766,High
+35,Stage II,Adenocarcinoma,9.411525976057387,Intermediate
+36,Stage I,Adenocarcinoma,6.744435344590153,High
+37,Stage IV,Squamous Cell Carcinoma,5.6502663168391,Low
+38,Stage II,Adenocarcinoma,6.914001956501502,Low
+39,Stage IV,Lymphoma,4.92105608810102,High
+40,Stage I,Lymphoma,7.570353849056366,Low
+41,Stage I,Adenocarcinoma,1.429445149224839,High
+42,Stage IV,Lymphoma,6.094334894446686,Low
+43,Stage III,Adenocarcinoma,2.4278180287824194,Low
+44,Stage III,Adenocarcinoma,2.0814818302507794,High
+45,Stage I,Lymphoma,4.076917000447614,Low
+46,Stage I,Adenocarcinoma,1.8261915923209768,High
+47,Stage III,Lymphoma,1.8474128944170412,Low
+48,Stage III,Squamous Cell Carcinoma,3.802719784521648,Low
+49,Stage IV,Adenocarcinoma,9.815594757593576,Intermediate
+50,Stage IV,Squamous Cell Carcinoma,2.577972429004047,Intermediate
+51,Stage III,Lymphoma,1.1544499164857522,High
+52,Stage IV,Squamous Cell Carcinoma,7.870279807035199,Intermediate
+53,Stage IV,Squamous Cell Carcinoma,8.262216793457014,High
+54,Stage II,Lymphoma,4.116738889804607,Intermediate
+55,Stage IV,Squamous Cell Carcinoma,5.182064316456502,Low
+56,Stage I,Squamous Cell Carcinoma,6.84796314378487,High
+57,Stage IV,Lymphoma,1.4325303177733035,High
+58,Stage IV,Squamous Cell Carcinoma,9.542311584322473,Low
+59,Stage III,Lymphoma,8.980123485682428,High
+60,Stage I,Squamous Cell Carcinoma,3.3480426100754257,High
+61,Stage IV,Lymphoma,1.1377408626134629,Intermediate
+62,Stage IV,Lymphoma,9.400926772715346,High
+63,Stage II,Squamous Cell Carcinoma,5.509358955237333,Low
+64,Stage IV,Squamous Cell Carcinoma,5.854397035600563,Intermediate
+65,Stage IV,Squamous Cell Carcinoma,7.15567392458327,Intermediate
+66,Stage II,Adenocarcinoma,6.542660479509225,Low
+67,Stage III,Adenocarcinoma,9.495024441046814,Low
+68,Stage IV,Adenocarcinoma,9.498264374126506,Intermediate
+69,Stage II,Lymphoma,8.804790401995035,High
+70,Stage I,Squamous Cell Carcinoma,6.7276323770141016,Intermediate
+71,Stage III,Lymphoma,8.208543652141596,Low
+72,Stage I,Adenocarcinoma,7.094515081446835,Intermediate
+73,Stage I,Squamous Cell Carcinoma,6.1603033750474,Low
+74,Stage II,Lymphoma,2.156503179105192,Intermediate
+75,Stage IV,Squamous Cell Carcinoma,8.300837590624027,High
+76,Stage II,Lymphoma,8.385755281695598,Intermediate
+77,Stage II,Squamous Cell Carcinoma,6.633457030914156,Intermediate
+78,Stage II,Adenocarcinoma,8.383841593941412,Low
+79,Stage II,Adenocarcinoma,6.863362946720092,Low
+80,Stage III,Squamous Cell Carcinoma,2.8601592388907084,Low
+81,Stage IV,Lymphoma,3.465650145890204,Intermediate
+82,Stage I,Adenocarcinoma,2.931302077375367,High
+83,Stage I,Adenocarcinoma,4.395331749051783,Low
+84,Stage IV,Adenocarcinoma,1.3506681907921028,Low
+85,Stage I,Squamous Cell Carcinoma,6.564284959041036,Intermediate
+86,Stage IV,Squamous Cell Carcinoma,4.028987933998538,Low
+87,Stage I,Lymphoma,6.90150371842668,High
+88,Stage II,Lymphoma,4.468569588690086,High
+89,Stage I,Lymphoma,7.134523020755108,Low
+90,Stage IV,Squamous Cell Carcinoma,4.06562112517816,Low
+91,Stage IV,Squamous Cell Carcinoma,3.346250754123128,Intermediate
+92,Stage IV,Lymphoma,5.464337088640655,High
+93,Stage IV,Lymphoma,7.2360132282274545,High
+94,Stage IV,Squamous Cell Carcinoma,4.135029440078776,Low
+95,Stage III,Lymphoma,9.429833366701365,Intermediate
+96,Stage III,Adenocarcinoma,1.3526769400808163,High
+97,Stage I,Squamous Cell Carcinoma,4.761514285440208,High
+98,Stage IV,Lymphoma,9.708224963682227,Intermediate
+99,Stage I,Squamous Cell Carcinoma,5.931746949232786,Intermediate
+100,Stage IV,Adenocarcinoma,4.811238480773067,High
